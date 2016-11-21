@@ -1,6 +1,5 @@
 {
     "require": {
-        "league/flysystem": "^1.0",
         "twig/twig": "^1.28",
         "mikecao/flight": "^1.3"
     }
